@@ -1,0 +1,8 @@
+{
+  "uid": "test_acct_sync_app_function_2",
+  "type": "app-function",
+  "config": {
+    "entrypoint": "/app/functions/NewFunction.js",
+    "secretKeys": []
+  }
+}
